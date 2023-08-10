@@ -48,5 +48,6 @@ Templates, libraries or utilities that use Dojo.
 - [Realms Autonomous World](https://github.com/BibliothecaDAO/eternum) - The Realms Autonomous World
 - [Stark Lander](https://github.com/dojoengine/stark-lander) - Land on the Moon!
 - [Chess Dojo](https://github.com/rkdud007/chess-dojo) - A chess game built on Dojo.
+- [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
 
 **[⬆ back to top](#awesome-dojo)**
