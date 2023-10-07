@@ -37,7 +37,7 @@ Frameworks, plugins and utilities for Dojo.
 ## Templates & Libraries
 Templates, libraries or utilities that use Dojo.
 
-- [Crypts And Caverns DoJo Map](https://github.com/CheDAOLabs/cc-dojo-map) - An Example projects of integrating C&C maps developed by the CHE-DAO team with DoJo.
+- [Crypts And Caverns Dojo Map](https://github.com/CheDAOLabs/cc-dojo-map) - An Example projects of integrating C&C maps developed by the CHE-DAO team with Dojo.
 
 ## Tutorials
 
