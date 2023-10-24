@@ -49,5 +49,7 @@ Templates, libraries or utilities that use Dojo.
 - [Stark Lander](https://github.com/dojoengine/stark-lander) - Land on the Moon!
 - [Chess Dojo](https://github.com/rkdud007/chess-dojo) - A chess game built on Dojo.
 - [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
+- [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
+- [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
 
 **[⬆ back to top](#awesome-dojo)**
