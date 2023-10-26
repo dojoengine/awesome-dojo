@@ -51,5 +51,6 @@ Templates, libraries or utilities that use Dojo.
 - [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
+- [StarkLand](https://github.com/Starklandxyz) -  Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built on Starknet.
 
 **[⬆ back to top](#awesome-dojo)**
