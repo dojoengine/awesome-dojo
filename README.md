@@ -60,4 +60,6 @@ Templates, libraries or utilities that use Dojo.
 - [StarkLand](https://github.com/Starklandxyz) - Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built on Starknet.
 - [Beer Baron](https://github.com/cartridge-gg/beer-baron) - An dojo onchain simulation masked as a beer brewing game. It is designed to work with 10 - 10,000 players.
 - [Emoji Man](https://github.com/dojoengine/emoji-man) - Pac-man inspired onchain game using dojo and phaser.
+- [Loot Underworld](https://github.com/funDAOmental/lootunderworld) - Excavating the dangerous, endless mysteries of the subterranean in the dark depths of the Realms Autonomous (Under)World.
+- [Underdark: Lair of the Slenderduck](https://github.com/funDAOmental/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
   **[⬆ back to top](#awesome-dojo)**
