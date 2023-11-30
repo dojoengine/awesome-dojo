@@ -32,14 +32,15 @@ Please take a quick view at the [contribution guidelines](https://github.com/doj
 
 Frameworks, plugins and utilities for Dojo.
 
-- [Dojoup](https://github.com/dojoengine/dojo/tree/master/dojoup) - Update or revert to a specific Dojo branch with ease.
+- [Dojoup](https://book.dojoengine.org/toolchain/dojoup.html) - The Dojo toolchain you need.
 
 ## Templates & Libraries
 Templates, libraries or utilities that use Dojo.
-
+- [Origami](https://github.com/dojoengine/origami) - Cairo primitives for onchain Gaming
 - [Crypts And Caverns Dojo Map](https://github.com/CheDAOLabs/cc-dojo-map) - An Example projects of integrating C&C maps developed by the CHE-DAO team with Dojo.
 
 ## Tutorials
+- [ECS in 15 minutes](https://book.dojoengine.org/cairo/hello-dojo.html) - ECS in 15 minutes
 
 ## Projects Using Dojo
 
@@ -52,5 +53,6 @@ Templates, libraries or utilities that use Dojo.
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
 - [StarkLand](https://github.com/Starklandxyz) -  Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built on Starknet.
-
+- [Beer Baron](https://github.com/cartridge-gg/beer-baron) - An dojo onchain simulation masked as a beer brewing game. It is designed to work with 10 - 10,000 players.
+- [Emoji Man](https://github.com/dojoengine/emoji-man) - Pac-man inspired onchain game using dojo and phaser.
 **[⬆ back to top](#awesome-dojo)**
