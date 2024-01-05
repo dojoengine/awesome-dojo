@@ -58,9 +58,9 @@ Templates, libraries or utilities that use Dojo.
 - [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
 - [Realms Autonomous World](https://github.com/BibliothecaDAO/eternum) - The Realms Autonomous World
 - [Stark Lander](https://github.com/dojoengine/stark-lander) - Land on the Moon!
+- [Starkane](https://github.com/amegakure-starknet/starkane) - Turn-based RPG game with Unity
 - [StarkLand](https://github.com/Starklandxyz) - Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built on Starknet.
 - [Underdark: Lair of the Slenderduck](https://github.com/funDAOmental/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
-- [Starkane](https://github.com/amegakure-starknet/starkane) - Turn-based RPG game with Unity
   **[⬆ back to top](#awesome-dojo)**
