@@ -59,6 +59,7 @@ Templates, libraries or utilities that use Dojo.
 - [Realms Autonomous World](https://github.com/BibliothecaDAO/eternum) - The Realms Autonomous World
 - [Stark Lander](https://github.com/dojoengine/stark-lander) - Land on the Moon!
 - [StarkLand](https://github.com/Starklandxyz) - Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built on Starknet.
+- [The Cave](https://github.com/Await-0x/the-cave-dojo) - Roguelike deckbuilder game. Venture into the dark.
 - [Underdark: Lair of the Slenderduck](https://github.com/funDAOmental/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
