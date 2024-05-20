@@ -20,8 +20,8 @@ Please take a quick view at the [contribution guidelines](https://github.com/doj
 ## Content
 
 - [Awesome Dojo](#awesome-dojo)
-  - [Contributing](#contributing)
-    - [_If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_](#if-you-see-a-package-or-project-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-file-thank-you)
+    - [Contributing](#contributing)
+      - [_If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_](#if-you-see-a-package-or-project-here-that-is-no-longer-maintained-or-is-not-a-good-fit-please-submit-a-pull-request-to-improve-this-file-thank-you)
   - [Content](#content)
   - [Tools](#tools)
   - [Templates \& Libraries](#templates--libraries)
@@ -55,6 +55,7 @@ Templates, libraries or utilities that use Dojo.
 - [Drive AI](https://github.com/cartridge-gg/drive-ai) - An onchain driving simulator controlled by a neural network developed by the Cartridge team.
 - [Emoji Man](https://github.com/dojoengine/emoji-man) - Pac-man inspired onchain game using dojo and phaser.
 - [Loot Underworld](https://github.com/funDAOmental/lootunderworld) - Excavating the dangerous, endless mysteries of the subterranean in the dark depths of the Realms Autonomous (Under)World.
+- [Moving Mountains With Yu](https://github.com/FrostStarBook/moving-mountains-with-yu) - An onchain casual idle game
 - [Pistols at Ten Blocks](https://github.com/funDAOmental/pistols) - Defend thine honour in a duel. Earn yourself glory on the leaderboard, or a shallow grave behind the Fool & Flintlock tavern.
 - [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
 - [Realms Autonomous World](https://github.com/BibliothecaDAO/eternum) - The Realms Autonomous World
@@ -65,4 +66,5 @@ Templates, libraries or utilities that use Dojo.
 - [Underdark: Lair of the Slenderduck](https://github.com/funDAOmental/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
+
   **[⬆ back to top](#awesome-dojo)**
