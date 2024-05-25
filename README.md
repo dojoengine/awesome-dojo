@@ -45,7 +45,7 @@ Templates, libraries or utilities that use Dojo.
 
 ## Tutorials
 
-- [ECS in 15 minutes](https://book.dojoengine.org/cairo/hello-dojo.html) - ECS in 15 minutes
+- [ECS in 15 minutes](https://book.dojoengine.org/tutorial/dojo-starter) - ECS in 15 minutes
 
 ## Projects Using Dojo
 
