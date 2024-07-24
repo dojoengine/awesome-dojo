@@ -66,5 +66,6 @@ Templates, libraries or utilities that use Dojo.
 - [Underdark: Lair of the Slenderduck](https://github.com/funDAOmental/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
+- [Mancala](https://github.com/realm-of-ra/mancala) - An onchain strategy board game.
 
   **[⬆ back to top](#awesome-dojo)**
