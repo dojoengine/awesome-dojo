@@ -54,17 +54,19 @@ Templates, libraries or utilities that use Dojo.
 - [Dope Wars: Roll Your Own](https://github.com/cartridge-gg/rollyourown) - An onchain adaptation of the classic Drug Wars game developed by the Cartridge team.
 - [Drive AI](https://github.com/cartridge-gg/drive-ai) - An onchain driving simulator controlled by a neural network developed by the Cartridge team.
 - [Emoji Man](https://github.com/dojoengine/emoji-man) - Pac-man inspired onchain game using dojo and phaser.
-- [Loot Underworld](https://github.com/funDAOmental/lootunderworld) - Excavating the dangerous, endless mysteries of the subterranean in the dark depths of the Realms Autonomous (Under)World.
+- [Karat](https://github.com/rsodre/512karat) - Fully on-chain generative art collection made with Dojo.
+- [Loot Underworld](https://github.com/underware-gg/lootunderworld) - Excavating the dangerous, endless mysteries of the subterranean in the dark depths of the Realms Autonomous (Under)World.
 - [Mancala](https://github.com/realm-of-ra/mancala) - An onchain strategy board game.
 - [Moving Mountains With Yu](https://github.com/FrostStarBook/moving-mountains-with-yu) - An onchain casual idle game
-- [Pistols at Ten Blocks](https://github.com/funDAOmental/pistols) - Defend thine honour in a duel. Earn yourself glory on the leaderboard, or a shallow grave behind the Fool & Flintlock tavern.
+- [Pistols at Dawn](https://github.com/underware-gg/pistols) - Defend thine honour in a duel. Earn yourself glory on the leaderboard, or a shallow grave behind the Fool & Flintlock tavern.
 - [PixeLAW](https://github.com/pixelaw/game) - A pixel grid-based Autonomous World with coexisting games (i.e. Paint, Snake, Rock-Paper-Scissors).
 - [Realms Autonomous World](https://github.com/BibliothecaDAO/eternum) - The Realms Autonomous World
+- [Skuller](https://github.com/rsodre/skuller) - Custom renderer for the Loot Survivor Adventurer tokens, wrapped with Dojo for easy deployment and upgradability.
 - [Stark Lander](https://github.com/dojoengine/stark-lander) - Land on the Moon!
 - [Starkane](https://github.com/amegakure-starknet/starkane) - Turn-based RPG game with Unity
 - [StarkLand](https://github.com/Starklandxyz) - Full On-chain Multiplayer Online Simulation Game (FOMOSLG) built on Starknet.
 - [The Cave](https://github.com/Await-0x/the-cave-dojo) - Roguelike deckbuilder game. Venture into the dark.
-- [Underdark: Lair of the Slenderduck](https://github.com/funDAOmental/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
+- [Underdark: Lair of the Slenderduck](https://github.com/underware-gg/underdark) - An unhinged on-chain generative dungeon skin crawler. Beware the Slenderduck!
 - [zDefender](https://github.com/z-korp/zdefender-front) - An onchain tower defense.
 - [zKnight](https://github.com/z-korp/zknight) - An onchain strategy game
 
